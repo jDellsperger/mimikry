@@ -1,0 +1,13 @@
+version(1);
+
+project_name = "Mimikry_Beholder";
+
+patterns = {
+"*.cpp",
+"*.h",
+"*.sh"
+};
+
+load_paths = {
+{{{"."}}, .os = "linux"}
+};
